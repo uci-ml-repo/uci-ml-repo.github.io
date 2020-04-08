@@ -1,0 +1,9 @@
+main:
+  - title: "Hackathon"
+    url: /events/hackathon/
+  - title: "Symposium"
+    url: /events/symposium/
+  # - title: "Tags"
+  #   url: /tags/
+  - title: "About"
+    url: /about/
