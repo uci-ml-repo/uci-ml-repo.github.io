@@ -1,6 +1,15 @@
 ---
 permalink: /events/symposium/
-title: "UCI ML Symposium"
+title: "UCI Symposium on Reproducibility in Machine Learning"
 ---
 
-This virtual symposium is being hosted to give the community an insight into what the machine learning industry looks like today. Regardless of your interests and background, if you are even a little interested in the field of artificial intelligence, come listen to some of the prominent professionals in the industry talk about their journeys, passions, and areas of expertise. A rare chance to have so much knowledge virtually available at the same time, this is an opportunity you will not want to miss!
+
+
+## Dates
+
+May 29th, 9am to 1pm PT, [other timezones](https://www.timeanddate.com/worldclock/converter.html?iso=20200529T160000&p1=840&p2=179&p3=136)
+
+## Speakers
+
+
+## Schedule
