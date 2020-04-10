@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Empty Text. Needs to be like a splash page, highlighting 2-3 main things.
+Needs to be like a splash page, highlighting 2-3 main things.
+
+In the following section you will find highlights about updates regarding UCI’s machine learning repository and its website, ways it is being used, and community events related to the repository and machine learning as a field.
