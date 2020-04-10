@@ -4,7 +4,7 @@ title: "About"
 layout: single
 ---
 
-University of California, Irvine (UCI) has been the home institution of one of the world’s most well-known and widely used machine learning dataset repositories for several decades. In that time, there has been consistent upkeep and additions that have been made to the repository. Now we want to take those steps to a higher level and work towards increasing awareness among the community that this resource continues to exist for students, researchers, and industry professionals, while updating and reviewing its current content and usability. Here you will find a list of the people that compose the team behind this mission, and other information regarding this project. Click <a href="http://archive.ics.uci.edu/ml/index.php" class="btn">here</a> to navigate to the repository.
+University of California, Irvine (UCI) has been the home institution of one of the world’s most well-known and widely used machine learning dataset repositories for several decades. In that time, there has been consistent upkeep and additions that have been made to the repository. Now we want to take those steps to a higher level and work towards increasing awareness among the community that this resource continues to exist for students, researchers, and industry professionals, while updating and reviewing its current content and usability. Here you will find a list of the people that compose the team behind this mission, and other information regarding this project. Click <a href="http://archive.ics.uci.edu/ml/index.php">here</a> to navigate to the repository.
 
 ## Program Investigators
 
