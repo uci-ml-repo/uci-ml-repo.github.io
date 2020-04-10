@@ -3,6 +3,21 @@ permalink: /events/hackathon/
 title: "UCI ML Hackathon"
 ---
 
+## Dates
+
+- Registration open: April 15, 2020
+- Registation closes: May 8, 2020
+- Hackathon: May 15 - May 24, 2020
+- Results announced: June 1, 2020
+
+_Subject to change_
+
+## Registration
+
+_Link coming soon_
+
+## Description
+
 Today, artificial intelligence and machine learning are being widely used for all sorts of useful and critical discoveries and pattern recognition. Tracking economies, predicting natural disasters, and training robots are just some of the incredible and fascinating things that are being done with machine learning this very minute. In an age of extreme technological development, it only makes sense that our students grow their understanding with it.
 
 This virtual hackathon aims to encourage direct student interaction with UCI’s machine learning repository. The goal of every participating member/team is to envision creative uses of available data sets and innovatively show how the final results can be used for social good. Regardless of the cause - environmental, ethical, or health - we hope that the final report that students draft will highlight something interesting about the data with which they become familiar. 
