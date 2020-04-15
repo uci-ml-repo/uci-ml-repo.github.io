@@ -1,5 +1,6 @@
 ---
 permalink: /events/hackathon/
+toc: true
 title: "UCI ML Hackathon"
 ---
 
