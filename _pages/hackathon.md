@@ -14,7 +14,7 @@ _Subject to change_
 
 ## Registration
 
-_Link coming soon_
+<a href="https://www.eventbrite.com/e/uci-machine-learning-virtual-hackathon-registration-102739861692?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing">Click here to navigate to registration form.</a>
 
 ## Description
 
