@@ -37,7 +37,7 @@ This hackathon will last a little over a week. In that time, students will work 
 
 <div>
 <img class="align-left" width="125px" src="{{ site.url }}{{ site.baseurl }}/assets/images/insiya-gunja.jpg">
-<h4>Insiya Gunja</h4>
+<h3>Insiya Gunja</h3>
 <i>Undergraduate, Computer Science</i><br>
 </div>
 
