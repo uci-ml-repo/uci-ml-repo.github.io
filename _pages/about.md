@@ -38,4 +38,4 @@ University of California, Irvine (UCI) has been the home institution of one of t
 
 ## Sponsored by
 
-NSF grant info, from [here](https://www.ics.uci.edu/community/news/view_news?id=1643).
+This project is sponsored by the National Science Foundation (NSF). See [here](https://www.ics.uci.edu/community/news/view_news?id=1643) for more details.
