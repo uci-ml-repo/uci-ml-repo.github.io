@@ -1,7 +1,8 @@
 ---
-permalink: /events/hackathon/
+permalink: /events/hackathon20/
 toc: true
 title: "UCI ML Hackathon"
+classes: narrow
 ---
 
 ## Dates
