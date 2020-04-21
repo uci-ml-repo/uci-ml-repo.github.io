@@ -1,5 +1,6 @@
 ---
 permalink: /events/hackathon20/
+redirect_from: /events/hackathon/
 toc: true
 title: "UCI ML Hackathon"
 classes: narrow
