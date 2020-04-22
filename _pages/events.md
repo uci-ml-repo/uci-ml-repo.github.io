@@ -5,7 +5,7 @@ title: "Events"
 
 ## Current Events
 
-- [Hackathon](/events/hackathon20): end of May
-- [Symposium](/events/symposium): end of May
+- [UCI ML Hackathon](/events/hackathon20): May 15-24, 2020
+- [Symposium on ML Reproducbility](/events/reprod-symposium20/): June 10, 2020
 
 ## Past Events

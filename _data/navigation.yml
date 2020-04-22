@@ -1,8 +1,8 @@
 main:
   - title: "Hackathon"
     url: /events/hackathon20/
-  #  - title: "Symposium"
-  #  url: /events/symposium/
+  - title: "Symposium"
+    url: /events/reprod-symposium20/
   # - title: "Tags"
   #   url: /tags/
   - title: "About"
