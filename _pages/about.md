@@ -6,6 +6,10 @@ layout: single
 
 University of California, Irvine (UCI) has been the home institution of one of the world’s most well-known and widely used machine learning dataset repositories for several decades. In that time, there has been consistent upkeep and additions that have been made to the repository. Now we want to take those steps to a higher level and work towards increasing awareness among the community that this resource continues to exist for students, researchers, and industry professionals, while updating and reviewing its current content and usability. Here you will find a list of the people that compose the team behind this mission, and other information regarding this project. Click <a href="http://archive.ics.uci.edu/ml/index.php">here</a> to navigate to the repository.
 
+## Sponsored by
+
+This project is sponsored by the National Science Foundation (NSF). See [here](https://www.ics.uci.edu/community/news/view_news?id=1643) for more details.
+
 ## Program Investigators
 
 <div>
@@ -33,9 +37,3 @@ University of California, Irvine (UCI) has been the home institution of one of t
 - Daniel Jiang
 - Insiya Gunja
 - Zhengli Zhao <a href="https://zhengliz.github.io" class="btn">Website</a>
-
-
-
-## Sponsored by
-
-This project is sponsored by the National Science Foundation (NSF). See [here](https://www.ics.uci.edu/community/news/view_news?id=1643) for more details.
