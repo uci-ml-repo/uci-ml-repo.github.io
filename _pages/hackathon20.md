@@ -6,7 +6,8 @@ title: "UCI ML Hackathon"
 classes: narrow
 toc_sticky: true
 header:
-    image: /assets/images/hackathon20-splash.jfif
+    image: /assets/images/data-wallpaper-long.jpg
+    caption: "Photo credit: [**Wallpaper Flare**](https://www.wallpaperflare.com/)"
 ---
 
 ## Dates
