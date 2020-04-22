@@ -96,6 +96,7 @@ defaults:
       classes: wide
       author_profile: false
       paginator: false
+      share: true
 
 category_archive:
   type: liquid
