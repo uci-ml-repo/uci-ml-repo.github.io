@@ -8,6 +8,35 @@ title: "UCI Symposium on Reproducibility in Machine Learning"
 header:
     image: /assets/images/clones-unsplash-long.jpg
     caption: "Photo credit: [Jørgen Håland](https://unsplash.com/@jhaland?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/4yOgRb_b_i4)"
+speakers:
+    vstodden:
+        name: Victoria Stodden
+        affliation: Univ of XYZ
+        title:
+        abstract:
+        bio:
+        website:
+    pliang:
+        name: Percy Liang
+        affliation: Stanford University
+        title:
+        abstract:
+        bio:
+        website:
+    jvanschoren:
+        name: Joachim Vanschoren
+        affliation: Univ of XYZ
+        title:
+        abstract:
+        bio:
+        website:
+    kcrammer:
+        name: Kyle Crammer
+        affliation: New York University
+        title:
+        abstract:
+        bio:
+        website:
 ---
 
 More details coming soon!
@@ -17,10 +46,22 @@ More details coming soon!
 June 10th, 2020
 9am to 1pm PT, [other timezones](https://www.timeanddate.com/worldclock/converter.html?iso=20200529T160000&p1=840&p2=179&p3=136)
 
+## Schedule
+
+_Subject to change_
+
+| Start 	| End   	| Person             	| Topic           	|
+|-------	|-------	|--------------------	|-----------------	|
+| 9:00  	| 9:15  	| -                  	| Opening Remarks 	|
+| 9:15  	| 10:00 	| {{ page.speakers.pliang.name}}   	|                 	|
+| 10:00 	| 10:45 	| {{ page.speakers.kcrammer.name}}	|                 	|
+| 10:45 	| 11:00 	| -                  	| Break           	|
+| 11:00 	| 11:45 	| {{ page.speakers.vstodden.name}}       	|                 	|
+| 11:45 	| 12:30 	| {{ page.speakers.jvanschoren.name}} 	|                 	|
+| 12:30 	| 1:00  	|                    	| Panel           	|
+
 ## Invited Speakers
 
-
-## Schedule
 
 
 ## Organizers
