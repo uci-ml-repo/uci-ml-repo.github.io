@@ -1,6 +1,7 @@
 ---
 permalink: /events/hackathon20/
 redirect_from: /events/hackathon/
+redirect_from: /hackathon20/
 toc: true
 title: "UCI ML Hackathon"
 classes: narrow
@@ -37,6 +38,8 @@ This hackathon will last a little over a week. In that time, students will work 
 ## Challenge Datasets
 
 _Coming soon!_
+
+- [GPA](/events/hackathon20/datasets#gpa1)
 
 ## Organizers
 
