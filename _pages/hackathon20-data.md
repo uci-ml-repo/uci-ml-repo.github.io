@@ -59,8 +59,8 @@ Scene understanding and proxemics recognition"
     contact_email: "zhou.li@uci.edu"  
     short_name: "DNS network captures"  
     long_name: "DNS network captures"  
-    description: "DNS data is often captured and used by security companies to find cyber-attacks. There are two pcap files consisting of millions of packets of DNS queries. A portion of them are benign, while others are malicious (e.g., flowing to a domains owned by cyber-attackers). The first one contains various kinds of DNS attacks. The second one contains DNS queries to many algorithm generated domains (Domain generation algorithms, DGA) from various family. DGA domains are often used as rendezvous points linked to command and control servers by malwares.
-  use_cases: "The first dataset could be used to build detection system to identify various kind of network attacks based on DNS communication patterns. The second dataset could be used to build detection system to detect DGA domains."
+    description: "DNS data is often captured and used by security companies to find cyber-attacks. There are two pcap files consisting of millions of packets of DNS queries. A portion of them are benign, while others are malicious (e.g., flowing to a domains owned by cyber-attackers). The first one contains various kinds of DNS attacks. The second one contains DNS queries to many algorithm generated domains (Domain generation algorithms, DGA) from various family. DGA domains are often used as rendezvous points linked to command and control servers by malwares."
+    use_cases: "The first dataset could be used to build detection system to identify various kind of network attacks based on DNS communication patterns. The second dataset could be used to build detection system to detect DGA domains."
 
 ---
 
