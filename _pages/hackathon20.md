@@ -37,9 +37,14 @@ This hackathon will last a little over a week. In that time, students will work 
 
 ## Challenge Datasets
 
-_Coming soon!_
+_Please note that datasets will be made available to registered participants closer to the day of the event. For information about the datasets, follow the links below._
 
-- [GPA](/events/hackathon20/datasets#gpa1)
+- [California Wildfires](/events/hackathon20/datasets#wildfires)
+- [Galaxy Spiral Structure](/events/hackathon20/datasets#galaxies)
+- [GPA](/events/hackathon20/datasets#gpa)
+- [Amyloid Positivity](/events/hackathon20/datasets#amyloid)
+- [UC COVID](/events/hackathon20/datasets#covid)
+- [DNS Network Captures](/events/hackathon20/datasets#dns)
 
 ## Organizers
 
