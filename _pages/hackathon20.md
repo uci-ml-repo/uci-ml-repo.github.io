@@ -46,7 +46,7 @@ Please note that datasets will be made available to registered participants clos
 - [UC COVID](/events/hackathon20/datasets#covid)
 - [DNS Network Captures](/events/hackathon20/datasets#dns)
 
-If you wish to use a different dataset for your project, please submit a request using <a href="https://forms.gle/McHx5WJGid3Fyjqt7">this form</a>. We will process your request and publish its information here if we approve of its use.
+If you wish to use a different dataset for your project, please submit a request using <a href="https://forms.gle/McHx5WJGid3Fyjqt7">this form</a>. We will process your request and publish its information here if we approve of its use. The deadline to fill out this form is May 8, 2020.
 
 ## Organizers
 
