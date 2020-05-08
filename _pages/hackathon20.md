@@ -37,9 +37,16 @@ This hackathon will last a little over a week. In that time, students will work 
 
 ## Challenge Datasets
 
-_Coming soon!_
+Please note that datasets will be made available to registered participants closer to the day of the event. For information about the datasets, follow the links below.
 
-- [GPA](/events/hackathon20/datasets#gpa1)
+- [California Wildfires](/events/hackathon20/datasets#wildfires)
+- [Galaxy Spiral Structure](/events/hackathon20/datasets#galaxies)
+- [GPA](/events/hackathon20/datasets#gpa)
+- [Amyloid Positivity](/events/hackathon20/datasets#amyloid)
+- [UC COVID](/events/hackathon20/datasets#covid)
+- [DNS Network Captures](/events/hackathon20/datasets#dns)
+
+If you wish to use a different dataset for your project, please submit a request using <a href="https://forms.gle/McHx5WJGid3Fyjqt7">this form</a>. We will process your request and publish its information here if we approve of its use. The deadline to fill out this form is May 8, 2020.
 
 ## Organizers
 
@@ -81,3 +88,6 @@ _Coming soon!_
 
 - *Will computational resources be provided for the hackathon?*<br>
   Yes, we will be providing access to a cluster computing environment for registered hackathon participants. More details coming soon.
+
+- *When will we be able to access the challenge datasets?*<br>
+  Information about the challenge datasets have been released on this page. Datasets will become available to registered participants closer to the date of the event.
