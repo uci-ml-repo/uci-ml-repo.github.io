@@ -28,9 +28,15 @@ speakers:
     vstodden:
         name: Victoria Stodden
         affiliation: Univ of Illinois, Urbana-Champaign
-        title: Coming soon
-        abstract: Coming soon
-        bio: Coming soon
+        title: "Reproducibility Matters Even If Models Discriminate Perfectly Between Chihuahuas and Blueberry Muffins"
+        abstract: "My goal in this talk is to motivative a principled connection between reproducibility and Machine Learning, which poses a new set of fundamental ML research questions. Starting from a counterfactual - suppose a trained model achieves perfect prediction on intended test data - brings into focus 1) methodological and scientific reasons for reproducibility: evaluating expected model performance on extrapolated data; comparing and benchmarking model performance; assessing model refinements and changes to the training set; assessing software implementation and computational system impact on model prediction performance; and 2) ethical reasons for reproducibility: computational transparency; model interpretability; efficiency and productivity. I will then present a novel structure leveraging reproducibility for assessing winners in ML tournaments such as Kaggle and CodaLab Competitions, called AIM, an Abstraction for Improving Machine Learning. AIM presents a structured delivery of the ML pipeline to enable the direct evaluation and re-use of defined workflow steps. AIM is demonstrated on the famous leukemia classification dataset (Golub '99) to illuminate the posited reproducibility and ML connection."
+        bio: |
+            VICTORIA STODDEN is an Associate Professor in the School of Information Sciences at the University of Illinois at Urbana Champaign, with affiliate appointments in the Departments of Statistics and Computer Science, the School of Law, and the National Center for Supercomputer Applications. She received a Ph.D. in Statistics from Stanford University and a Law Degree from Stanford Law School. She graduated magna cum laude with her Bachelor’s in Economics from the University of Ottawa and holds a master’s degree in Economics from the University of British Columbia. She held the Kauffman Innovation fellowship at Yale Law School and was a Berkman Klein fellow at Harvard Law School. She was a postdoctoral researcher at MIT and has held faculty positions at the University of California, Berkeley and Columbia University, before accepting a tenured position at the University of Illinois at Urbana Champaign.<br>
+            Stodden is an internationally recognized leader in improving the reliability of scientific results in the face of increasingly sophisticated computational approaches to research: understanding when and how inferences from data are valid and reproducible, what it means to have replicated a result, the effect of big data and computation on scientific inference, the design and implementation of scientific validation systems, standards of openness and transparency for data and code sharing, and resolving legal and policy barriers to disseminating reproducible research.<br>
+            She has published more than 50 papers in scientific journals and conference proceedings, and has co-edited two professional books, published in 2014, Privacy, Big Data, and the Public Good: Frameworks for Engagement, published by Cambridge University Press and Implementing Reproducible Research, published by Taylor & Francis.<br>
+            In 2009 she won the Access to Knowledge Kaltura prize for her publication on legal issues in reproducible research and scientific innovation. She serves on the Advisory Committee for the National Academy of Engineering Online Ethics Center for Ethics Education in Engineering and Science, and has served on the National Academies of Science, Engineering, and Medicine committees: “Reproducibility and Replication in Science” and “Fostering Research Integrity” and the NASEM Roundtable on "Data Science Post-Secondary Education." She co-chaired the National Science Foundation Advisory Committee for Cyberinfrastructure and was a member of the National Science Foundation Directorate for Computer and Information Science and Engineering (CISE) Advisory Committee. She has been quoted in The Economist (2013) and interviewed by publications such as Nature (2016) on research reproducibility.<br>
+            She also testified on scientific reproducibility before the Congressional House Committee on Science, Space and Technology for the March 5, 2013 hearing on Scientific Integrity & Transparency.<br>
+            She is PI on NSF awards #1941443 EAGER: Reproducibility and Cyberinfrastructure for Computational and Data-Enabled Science, and #1839010: EAGER: Preserve/Destroy Decisions for Simulation Data in Computational Physics and Beyond; and she is co-PI on the NSF award #1541450: CC*DNI DIBBS: Merging Science and Cyberinfrastructure Pathways: The Whole Tale. Her website is <a href="https://stodden.net">https://stodden.net</a>.
         website: http://stodden.net/
         image: /assets/images/reprod_symp20/vstodden.jpg
     jvanschoren:
@@ -62,9 +68,9 @@ _Subject to change_
 | 9:15  	| 10:00 	| **{{ page.speakers.kcranmer.name}}** | [{{ page.speakers.kcranmer.title}}](#kcranmer) |
 | 10:00  	| 10:45 	| **{{ page.speakers.pliang.name}}** | [{{ page.speakers.pliang.title}}](#pliang) |
 | 10:45 	| 11:00 	| -                  	| Break           	|
-| 11:00  	| 11:45 	| **{{ page.speakers.vstodden.name}}** | [{{ page.speakers.vstodden.title}}](#vstoden) |
+| 11:00  	| 11:45 	| **{{ page.speakers.vstodden.name}}** | [{{ page.speakers.vstodden.title}}](#vstodden) |
 | 11:45  	| 12:30 	| **{{ page.speakers.jvanschoren.name}}** | [{{ page.speakers.jvanschoren.title}}](#jvanschoren) |
-| 12:30 	| 1:00  	|                    	| Panel           	|
+| 12:30 	| 1:00  	|                    	| Panel: **{{ page.speakers.kcranmer.name}}**, **{{ page.speakers.vstodden.name}}**, **{{ page.speakers.jvanschoren.name}}**	|
 
 ## Invited Speakers
 
