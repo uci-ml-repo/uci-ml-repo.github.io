@@ -47,13 +47,6 @@ Scene understanding and proxemics recognition"
     long_name: "Clinical memory assessments and biomarkers associated with Alzheimer's Disease and Related Disorders"  
     description: "Tabular data with 939 cases of 19 variables. Each case is a clinical test of a patient. Variables involve demographic information (age, gender, years of education), protocol information (time since baseline test), memory test outcomes (free recall scores, recognition scores), biomarkers (APOE genotype, beta amyloid), and diagnosis of memory impairment (cognitively normal or impaired)."
     use_cases: "Prediction of amyloid status. Prediction of progression to cognitive impairment. Visualization of relationship between memory test performance, biomarkers, and demographics."
-  covid:
-    contact_name: "Kai Zheng"  
-    contact_email: "kai.zheng@uci.edu"  
-    short_name: "UC COVID"  
-    long_name: "A subset of the comprehensive UC clinical data warehouse pertaining to UC pateints tested for COVID-19 (either positive or negative)"  
-    description: "All structure electronic health records (e.g., diagnoses, medications, lab tests and test results) of 30k+ UC patients who were tested for COVID-19."
-    use_cases: "Identification of association between pre-existing medical conditions and COVID-19 test results and patient health outcomes."
   dns:
     contact_name: "Zhou Li"  
     contact_email: "zhou.li@uci.edu"  
