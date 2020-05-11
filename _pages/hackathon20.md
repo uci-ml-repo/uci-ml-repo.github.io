@@ -65,7 +65,7 @@ _Undergraduate, Computer Science_
 
 Organizer: igunja@uci.edu
 
-Slack: _Coming soon!_
+Slack (for registered participants only): uciml-hackathon.slack.com
 
 <!--
 ## Schedule
