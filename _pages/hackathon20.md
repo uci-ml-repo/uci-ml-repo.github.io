@@ -17,8 +17,6 @@ header:
 - Hackathon: May 15 - May 24, 2020
 - Results announced: June 8, 2020
 
-<a class="btn btn--large btn--info" href="https://www.eventbrite.com/e/uci-machine-learning-virtual-hackathon-registration-102739861692?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing">Register</a>
-
 Eligibility: University of California, Irvine students of all degrees, majors, backgrounds, and interests are more than welcome to register! That being said, we highly recommend having some solid experience in machine learning in order to succeed in this event.
 
 ## Description
