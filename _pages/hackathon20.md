@@ -44,6 +44,7 @@ Please note that datasets will be made available to registered participants clos
 - [GPA](/events/hackathon20/datasets#gpa)
 - [Amyloid Positivity](/events/hackathon20/datasets#amyloid)
 - [DNS Network Captures](/events/hackathon20/datasets#dns)
+- [Satellite Imagery of Cambodia](/events/hackathon20/datasets#satellite)
 
 If you wish to use a different dataset for your project, please submit a request using <a href="https://forms.gle/McHx5WJGid3Fyjqt7">this form</a>. We will process your request and publish its information here if we approve of its use. The deadline to fill out this form is May 14, 2020.
 
