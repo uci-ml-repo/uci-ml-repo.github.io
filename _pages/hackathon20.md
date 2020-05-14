@@ -40,6 +40,8 @@ Whether it be a simple, fascinating discovery or significant breakthrough, we ar
 
 ## Format
 
+Submission and Evaluation Criteria: [Click here](/events/hackathon20/submission).
+
 This hackathon will last a little over a week. In that time, students will work individually, or in teams up to four people in size, to use machine learning to produce some interpretation of the dataset that they choose to work with. This _does not_ have to be limited to programming a model aimed at achieving high accuracy. It can include, but is not limited to, creating visual representations of the data or improving its interpretability. Correspondence and announcements throughout the duration of the event will happen primarily through [Slack](http://uciml-hackathon.slack.com). We will provide additional contact information there, if necessary. We will be arranging daily check-ins, meetings with dataset owners, and office hours, should anyone need guidance or assistance. There will be prizes offered to those groups that submit particularly useful or creative deliverables. We encourage students with any academic background or interest to participate!
 
 ## Challenge Datasets
