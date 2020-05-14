@@ -13,7 +13,7 @@ Our invited speakers include:
 1. Kyle Cranmer (NYU)
 2. Percy Liang (Stanford+CodaLab)
 3. Victoria Stodden (UIUC)
-4. Joachim Vanschoren (TU/e+OpenML).
+4. Joaquin Vanschoren (TU/e+OpenML).
 
 All talks will be streamed publicly, with opportunity to ask and upvote questions.
 
