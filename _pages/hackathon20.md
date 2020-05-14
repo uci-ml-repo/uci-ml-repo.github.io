@@ -13,11 +13,13 @@ header:
 
 ## Dates
 
-- **Registration closes:** *May 8, 2020*
-- Hackathon: May 15 - May 24, 2020
+- ~~Registration closes: May 8, 2020~~
+- **Hackathon: May 15 - May 24, 2020**
 - Results announced: June 8, 2020
 
-Eligibility: University of California, Irvine students of all degrees, majors, backgrounds, and interests are more than welcome to register! That being said, we highly recommend having some solid experience in machine learning in order to succeed in this event.
+<!-- Eligibility: University of California, Irvine students of all degrees, majors, backgrounds, and interests are more than welcome to register! That being said, we highly recommend having some solid experience in machine learning in order to succeed in this event. -->
+
+Check out the schedule of relevant events [here](/events/hackathon20/schedule).
 
 ## Description
 
@@ -64,7 +66,7 @@ _Undergraduate, Computer Science_
 
 Organizer: igunja@uci.edu
 
-Slack (for registered participants only): uciml-hackathon.slack.com
+Slack (for registered participants only): [uciml-hackathon.slack.com](http://uciml-hackathon.slack.com)
 
 <!--
 ## Schedule
