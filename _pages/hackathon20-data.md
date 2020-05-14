@@ -70,17 +70,15 @@ Scene understanding and proxemics recognition"
 {% for dataset in page.datasets %}
 
   <h2 id="{{dataset[0]}}">{{dataset[1].short_name}}</h2>
-  Description: {{dataset[1].long_name}}
+  _{{dataset[1].long_name}}_
   
-  By {{dataset[1].contact_name}}
+  Donated by: **{{dataset[1].contact_name}}**
+  ([email](mailto:{{dataset[1].contact_email}}))
+
+  {{dataset[1].description}}
   
+  **Possible Applications:** {{dataset[1].use_cases}}
 
-  [Email them](mailto:{{dataset[1].contact_email}})
-
-  About: {{dataset[1].description}}
-  
-  Possible Applications: {{dataset[1].use_cases}}
-
-  [Back to top](#top)
+  [&#94; top](#top)
 
 {% endfor %}
