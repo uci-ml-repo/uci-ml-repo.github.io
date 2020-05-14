@@ -1,10 +1,7 @@
 ---
 permalink: /events/hackathon20/schedule
 title: "UCI ML Hackathon: Schedule"
-layout: splash
 ---
-
-# Schedule for the Hackathon
 
 Subject to change. Please check the [Hackathon Slack](http://uciml-hackathon.slack.com) for the Zoom links.
 
