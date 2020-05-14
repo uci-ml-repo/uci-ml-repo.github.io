@@ -21,6 +21,13 @@ header:
 
 Check out the schedule of relevant events [here](/events/hackathon20/schedule).
 
+## Computing
+
+Instructions: [https://rcic.uci.edu/hackathon/](https://rcic.uci.edu/hackathon/)
+
+[RCIC](https://rcic.uci.edu/) is generously providing computational resources for the hackathon. Go to the page above to see how to access the machines and run your jobs on the HPC.
+If you have any questions about the computing resources, post in the `#computing` channel on [Slack](http://uciml-hackathon.slack.com).
+
 ## Description
 
 Today, artificial intelligence and machine learning are being widely used for all sorts of useful and critical discoveries and pattern recognition. Tracking economies, predicting natural disasters, and training robots are just some of the incredible and fascinating things that are being done with machine learning this very minute. In an age of extreme technological development, it only makes sense that our students grow their understanding with it.
@@ -33,7 +40,7 @@ Whether it be a simple, fascinating discovery or significant breakthrough, we ar
 
 ## Format
 
-This hackathon will last a little over a week. In that time, students will work individually, or in teams up to four people in size, to use machine learning to produce some interpretation of the dataset that they choose to work with. This _does not_ have to be limited to programming a model aimed at achieving high accuracy. It can include, but is not limited to, creating visual representations of the data or improving its interpretability. Correspondence and announcements throughout the duration of the event will happen primarily through Slack. We will provide additional contact information there, if necessary. We will be arranging daily check-ins, meetings with dataset owners, and office hours, should anyone need guidance or assistance. There will be prizes offered to those groups that submit particularly useful or creative deliverables. We encourage students with any academic background or interest to participate!
+This hackathon will last a little over a week. In that time, students will work individually, or in teams up to four people in size, to use machine learning to produce some interpretation of the dataset that they choose to work with. This _does not_ have to be limited to programming a model aimed at achieving high accuracy. It can include, but is not limited to, creating visual representations of the data or improving its interpretability. Correspondence and announcements throughout the duration of the event will happen primarily through [Slack](http://uciml-hackathon.slack.com). We will provide additional contact information there, if necessary. We will be arranging daily check-ins, meetings with dataset owners, and office hours, should anyone need guidance or assistance. There will be prizes offered to those groups that submit particularly useful or creative deliverables. We encourage students with any academic background or interest to participate!
 
 ## Challenge Datasets
 
