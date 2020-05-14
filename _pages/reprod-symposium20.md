@@ -40,7 +40,7 @@ speakers:
         website: http://stodden.net/
         image: /assets/images/reprod_symp20/vstodden.jpg
     jvanschoren:
-        name: Joachim Vanschoren
+        name: Joaquin Vanschoren
         affiliation: Eindhoven University of Technology and OpenML
         title: Sharing and reproducing machine learning experiments with OpenML
         abstract: Sharing machine learning experiments in a reproducible way is a lot of work. However, what if we could automatically track every detail of our experiments and share them together with our results? OpenML is an open online platform where one cannot only share datasets, but also entire machine experiments. It has integrations into many machine learning libraries so that experiments run with these libraries are automatically shared in a fully reproducible way. This also means that the shared experiments can be used in many innovative ways. This talk will cover what is possible today, our experiences with making experiments reproducible, as well as open problems and future plans.
