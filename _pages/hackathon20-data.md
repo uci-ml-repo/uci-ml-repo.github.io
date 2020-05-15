@@ -61,7 +61,13 @@ Scene understanding and proxemics recognition"
     long_name: "Satellite imagery of Chbar Mon, Kampong Speu, Cambodia"  
     description: "These are raster data (satellite images)."
     use_cases: "Classify the images according to some simple land types, including: urban, rice fields, other agricultural fields, water, buildings, houses, etc."
-    
+  clinical:
+    contact_name: "Alessandro Ghigi, Zhaoxian Hu, Wu Fu"  
+    contact_email: "aghigi@hs.uci.edu"  
+    short_name: "UCI Clinical Data"  
+    long_name: "UCI OMOP DeID database"  
+    description: "DeID clinical data related to 800,000 patients and 15,000,000 visits. Available clinical information: encounters, conditions (diagnoses), procedures, measurements (lab tests and vital signs), drugs, observations."
+    use_cases: "Feasibility studies, clinical projects that can run against DeID data."
     
 ---
 
