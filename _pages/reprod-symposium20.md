@@ -49,14 +49,18 @@ speakers:
         image: /assets/images/reprod_symp20/jvanschoren.jpg
 ---
 
-This event will be streamed live (link will be available on this website), with ability to ask and upvote questions during the talks, which we will ask the speakers.
+Please join us online for a half-day symposium on the topic of reproducibility in machine learning. 
+The event will consist of 4 invited talks plus a panel discussion from thought-leaders in this area.
 
-More details coming soon!
+This event will be streamed live, with ability to ask and upvote questions during the talks.
+
+Please fill-in the following short registration form if interested in the event: [Registration Form](https://forms.gle/rBbvVKQr1rRPDGxe9)
 
 ## Dates
 
-June 10th, 2020
-9am to 1pm PT, [other timezones](https://www.timeanddate.com/worldclock/converter.html?iso=20200529T160000&p1=840&p2=179&p3=136)
+**June 10th, 2020**
+
+9am to 1pm PT, [your timezone](https://time.is/0900AM_10_June_2020_in_PT?UCI_ML_Reproducibility_Symposium)
 
 ## Schedule
 
@@ -83,6 +87,7 @@ _Subject to change_
     <img class="align-left" width="125px" src="{{ site.url }}{{ site.baseurl }}{{ speaker[1].image }}">
     <p><i>{{speaker[1].abstract}}</i></p>
     <p><b>Bio:</b> {{speaker[1].bio}}</p>
+    <p><a href="#schedule">Back to schedule</a></p>
     </div>
     <hr>
 {% endfor %}

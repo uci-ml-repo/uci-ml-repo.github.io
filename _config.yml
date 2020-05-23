@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: username
 github_username: uci-ml-repo
 minimal_mistakes_skin: dark
-search: true
+# search: true
 # repository: "ucinlp/covid19"
 # logo: "/assets/images/uci-nlp-logo-large.png"
 breadcrumbs: true  # disabled by default
