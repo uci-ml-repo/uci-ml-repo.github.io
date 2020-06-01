@@ -74,7 +74,7 @@ _Subject to change_
 | 10:45 	| 11:00 	| -                  	| Break           	|
 | 11:00  	| 11:45 	| **{{ page.speakers.vstodden.name}}** | [{{ page.speakers.vstodden.title}}](#vstodden) |
 | 11:45  	| 12:30 	| **{{ page.speakers.jvanschoren.name}}** | [{{ page.speakers.jvanschoren.title}}](#jvanschoren) |
-| 12:30 	| 1:00  	|                    	| Panel: **{{ page.speakers.kcranmer.name}}**, **{{ page.speakers.vstodden.name}}**, **{{ page.speakers.jvanschoren.name}}**	|
+| 12:30 	| 1:00  	|                    	| Panel: **{{ page.speakers.kcranmer.name}}**, **{{ page.speakers.pliang.name}}**, **{{ page.speakers.vstodden.name}}**, **{{ page.speakers.jvanschoren.name}}**	|
 
 ## Invited Speakers
 
