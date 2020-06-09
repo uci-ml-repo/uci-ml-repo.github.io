@@ -49,6 +49,14 @@ speakers:
         image: /assets/images/reprod_symp20/jvanschoren.jpg
 ---
 
+<div class="notice notice--info">
+  <h4>Event Postponed</h4>
+  <p>In support of the ongoing protests against systematic and institutionalized racism, in particular, the #ShutdownAcademia and #ShutdownSTEM efforts that is taking place on June 10th, we have decided to postpone the event.</p>
+  <p>We will be announcing new dates soon.</p>
+  <p><a href="https://www.shutdownstem.com/">Read more about the movement here.</a></p>
+  
+</div>
+
 Please join us online for a half-day symposium on the topic of reproducibility in machine learning. 
 The event will consist of 4 invited talks plus a panel discussion from thought-leaders in this area.
 
@@ -58,7 +66,7 @@ Please fill-in the following short registration form if interested in the event:
 
 ## Dates
 
-**June 10th, 2020**
+~~June 10th, 2020~~ (New date coming soon)
 
 9am to 1pm PT, [your timezone](https://time.is/0900AM_10_June_2020_in_PT?UCI_ML_Reproducibility_Symposium)
 
