@@ -15,11 +15,23 @@ header:
 
 - ~~Registration closes: May 8, 2020~~
 - **Hackathon: May 15 - May 24, 2020**
-- Results announced: June 8, 2020
+- Results announced: ~~June 8, 2020~~ July 2, 2020
 
 <!-- Eligibility: University of California, Irvine students of all degrees, majors, backgrounds, and interests are more than welcome to register! That being said, we highly recommend having some solid experience in machine learning in order to succeed in this event. -->
 
 Check out the schedule of relevant events [here](/events/hackathon20/schedule).
+
+## Awards
+
+- Best Overall Team: **Pfft**
+- Outstanding Submissions: **DeepFirefighter, Hatomugi**
+- Category Prizes:
+  - Scientific Insights: **Pfft**
+  - Evaluation: **Whatever**
+  - Creativity: **Epsilon**
+  - Technical Strength: **amk**
+  - Presentation: **ZotClinic**
+
 
 ## Computing
 
