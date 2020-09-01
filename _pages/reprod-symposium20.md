@@ -25,20 +25,14 @@ speakers:
         bio: "Percy Liang is an Associate Professor of Computer Science at Stanford University (B.S. from MIT, 2004; Ph.D. from UC Berkeley, 2011).  His two research goals are (i) to make machine learning more robust, fair, and interpretable; and (ii) to make computers easier to communicate with through natural language.  His awards include the Presidential Early Career Award for Scientists and Engineers (2019), IJCAI Computers and Thought Award (2016), an NSF CAREER Award (2016), a Sloan Research Fellowship (2015), and a Microsoft Research Faculty Fellowship (2014)."
         website: https://cs.stanford.edu/~pliang/
         image: /assets/images/reprod_symp20/pliang.jpg
-    vstodden:
-        name: Victoria Stodden
-        affiliation: Univ of Illinois, Urbana-Champaign
-        title: "Reproducibility Matters Even If Models Can Discriminate Perfectly Between Chihuahuas and Blueberry Muffins"
-        abstract: "My goal in this talk is to motivative a principled connection between reproducibility and Machine Learning, and show how this connection suggests a new set of fundamental ML research questions. Starting from a counterfactual - suppose a trained model achieves perfect prediction on the test data - brings into focus two rationales for reproducibility 1) methodological and scientific: evaluating expected model performance on extrapolated data; comparing and benchmarking model performance; assessing model refinements and changes to the training set; and assessing software implementation and computational system impact on model prediction performance; and 2) ethical: computational transparency; model interpretability; efficiency and productivity. I will present work that demonstrates the value and importance of these rationales in practice. AIM, an Abstraction for Improving Machine Learning, is a novel structure leveraging reproducibility for assessing winners in ML tournaments such as Kaggle and CodaLab Competitions. AIM presents a structured delivery of the ML pipeline to enable the direct evaluation, comparison, and re-use of defined workflow steps. AIM is demonstrated on the famous leukemia classification dataset (Golub '99) to illustrate the connection between ML and reproducibility."
-        bio: |
-            VICTORIA STODDEN is an Associate Professor in the School of Information Sciences at the University of Illinois at Urbana Champaign, with affiliate appointments in the Departments of Statistics and Computer Science, the School of Law, and the National Center for Supercomputer Applications. She received a Ph.D. in Statistics from Stanford University and a Law Degree from Stanford Law School. She graduated magna cum laude with her Bachelor’s in Economics from the University of Ottawa and holds a master’s degree in Economics from the University of British Columbia. She held the Kauffman Innovation fellowship at Yale Law School and was a Berkman Klein fellow at Harvard Law School. She was a postdoctoral researcher at MIT and has held faculty positions at the University of California, Berkeley and Columbia University, before accepting a tenured position at the University of Illinois at Urbana Champaign.<br>
-            Stodden is an internationally recognized leader in improving the reliability of scientific results in the face of increasingly sophisticated computational approaches to research: understanding when and how inferences from data are valid and reproducible, what it means to have replicated a result, the effect of big data and computation on scientific inference, the design and implementation of scientific validation systems, standards of openness and transparency for data and code sharing, and resolving legal and policy barriers to disseminating reproducible research.<br>
-            She has published more than 50 papers in scientific journals and conference proceedings, and has co-edited two professional books, published in 2014, Privacy, Big Data, and the Public Good: Frameworks for Engagement, published by Cambridge University Press and Implementing Reproducible Research, published by Taylor & Francis.<br>
-            In 2009 she won the Access to Knowledge Kaltura prize for her publication on legal issues in reproducible research and scientific innovation. She serves on the Advisory Committee for the National Academy of Engineering Online Ethics Center for Ethics Education in Engineering and Science, and has served on the National Academies of Science, Engineering, and Medicine committees: “Reproducibility and Replication in Science” and “Fostering Research Integrity” and the NASEM Roundtable on "Data Science Post-Secondary Education." She co-chaired the National Science Foundation Advisory Committee for Cyberinfrastructure and was a member of the National Science Foundation Directorate for Computer and Information Science and Engineering (CISE) Advisory Committee. She has been quoted in The Economist (2013) and interviewed by publications such as Nature (2016) on research reproducibility.<br>
-            She also testified on scientific reproducibility before the Congressional House Committee on Science, Space and Technology for the March 5, 2013 hearing on Scientific Integrity & Transparency.<br>
-            She is PI on NSF awards #1941443 EAGER: Reproducibility and Cyberinfrastructure for Computational and Data-Enabled Science, and #1839010: EAGER: Preserve/Destroy Decisions for Simulation Data in Computational Physics and Beyond; and she is co-PI on the NSF award #1541450: CC*DNI DIBBS: Merging Science and Cyberinfrastructure Pathways: The Whole Tale. Her website is <a href="https://stodden.net">https://stodden.net</a>.
-        website: http://stodden.net/
-        image: /assets/images/reprod_symp20/vstodden.jpg
+    mpaganini:
+        name: Michela Paganini
+        affiliation: Facebook Research
+        title: TBA
+        abstract: Details coming soon.
+        bio: Michela is a Postdoctoral Researcher at Facebook AI Research (FAIR) in Menlo Park and an affiliate at Lawrence Berkeley National Lab. She joined Facebook in 2018, after earning a Ph.D. in physics from Yale University. During her graduate studies, she worked on the design, development, and deployment of deep learning algorithms for the ATLAS experiment at CERN, with a focus on computer vision and generative modeling for particle discovery and scientific simulation. Prior to that, she graduated from the University of California, Berkeley with B.A.'s in physics and astrophysics. Her current research focuses on empirically characterizing neural network properties and dynamics in the over-parametrized and under-parametrized regimes using pruning as a tool for model compression. Michela has a broad interest in the science of deep learning, towards developing a fundamental understanding of the inner workings of deep models through rigorous investigation and hypothesis testing, using tools and methodologies from the physical sciences. 
+        website: https://mickypaganini.github.io/
+        image: /assets/images/reprod_symp20/mpaganini.jpg
     jvanschoren:
         name: Joaquin Vanschoren
         affiliation: Eindhoven University of Technology and OpenML
@@ -49,13 +43,13 @@ speakers:
         image: /assets/images/reprod_symp20/jvanschoren.jpg
 ---
 
-<div class="notice notice--info">
+<!--div class="notice notice--info">
   <h4>Event Postponed</h4>
   <p>In support of the ongoing protests against systematic and institutionalized racism, in particular, the #ShutdownAcademia and #ShutdownSTEM efforts that is taking place on June 10th, we have decided to postpone the event.</p>
   <p>We will be announcing new dates soon.</p>
   <p><a href="https://www.shutdownstem.com/">Read more about the movement here.</a></p>
   
-</div>
+</div-->
 
 Please join us online for a half-day symposium on the topic of reproducibility in machine learning. 
 The event will consist of 4 invited talks plus a panel discussion from thought-leaders in this area.
@@ -66,7 +60,7 @@ Please fill-in the following short registration form if interested in the event:
 
 ## Dates
 
-~~June 10th, 2020~~ (New date coming soon)
+**Tuesday, September 22, 2020.**
 
 9am to 1pm PT, [your timezone](https://time.is/0900AM_10_June_2020_in_PT?UCI_ML_Reproducibility_Symposium)
 
@@ -77,12 +71,12 @@ _Subject to change_
 | Start 	| End   	| Person             	| Topic           	|
 |-------	|-------	|--------------------	|-----------------	|
 | 9:00  	| 9:15  	| -                  	| Opening Remarks 	|
-| 9:15  	| 10:00 	| **{{ page.speakers.kcranmer.name}}** | [{{ page.speakers.kcranmer.title}}](#kcranmer) |
-| 10:00  	| 10:45 	| **{{ page.speakers.pliang.name}}** | [{{ page.speakers.pliang.title}}](#pliang) |
+| 9:15  	| 10:00 	| **{{ page.speakers.pliang.name}}** | [{{ page.speakers.pliang.title}}](#pliang) |
+| 10:00  	| 10:45 	| **{{ page.speakers.kcranmer.name}}** | [{{ page.speakers.kcranmer.title}}](#kcranmer) |
 | 10:45 	| 11:00 	| -                  	| Break           	|
-| 11:00  	| 11:45 	| **{{ page.speakers.vstodden.name}}** | [{{ page.speakers.vstodden.title}}](#vstodden) |
+| 11:00  	| 11:45 	| **{{ page.speakers.mpaganini.name}}** | [{{ page.speakers.mpaganini.title}}](#mpaganini) |
 | 11:45  	| 12:30 	| **{{ page.speakers.jvanschoren.name}}** | [{{ page.speakers.jvanschoren.title}}](#jvanschoren) |
-| 12:30 	| 1:00  	|                    	| Panel: **{{ page.speakers.kcranmer.name}}**, **{{ page.speakers.pliang.name}}**, **{{ page.speakers.vstodden.name}}**, **{{ page.speakers.jvanschoren.name}}**	|
+| 12:30 	| 1:00  	|                    	| Panel: **{{ page.speakers.kcranmer.name}}**, **{{ page.speakers.pliang.name}}**, **{{ page.speakers.mpaganini.name}}**, **{{ page.speakers.jvanschoren.name}}**	|
 
 ## Invited Speakers
 
