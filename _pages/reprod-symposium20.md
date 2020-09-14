@@ -62,7 +62,7 @@ Please fill-in the following short registration form if interested in the event:
 
 **Tuesday, September 22, 2020.**
 
-9am to 1pm PT, [your timezone](https://time.is/0900AM_10_June_2020_in_PT?UCI_ML_Reproducibility_Symposium)
+9am to 1pm PT, [your timezone](https://time.is/0900AM_22_Sept_2020_in_PT?UCI_ML_Reproducibility_Symposium)
 
 ## Schedule
 
