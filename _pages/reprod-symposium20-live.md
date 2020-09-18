@@ -8,7 +8,7 @@ layout: splash
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ph7BT_fnWvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You can also join the [Zoom webinar](https://uci.zoom.us/j/97241531098) directly.
+You can also join the [Zoom webinar](https://uci.zoom.us/j/98302274638) directly.
 
 # Questions
 
