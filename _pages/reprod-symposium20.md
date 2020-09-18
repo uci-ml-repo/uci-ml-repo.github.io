@@ -28,8 +28,8 @@ speakers:
     mpaganini:
         name: Michela Paganini
         affiliation: Facebook Research
-        title: TBA
-        abstract: Details coming soon.
+        title: "Reproducible Science of Deep Learning: The Pruning Case Study"
+        abstract: I will present the practice of neural network pruning as both a practical engineering intervention to reduce model size and a scientific tool to investigate the behavior and trainability of compressed models. By pruning away units or connections, it is possible to test hypotheses on the role of substructures and pathways towards feature formation and information propagation in neural networks. I will argue that a fundamental scientific understanding of the inner workings of neural networks is necessary to build a path towards robust, efficient AI, and I will introduce open-source work that has facilitated the investigation of the behavior of pruned models. I will highlight examples such as the contribution of centralized, reusable pruning methods in PyTorch and the open-sourcing of the `dagger` framework for reproducible and reusable experiment orchestration, to demonstrate how the desire for reproducibility in the context of pruning research (where complex multi-stage experiment pipelines are common) begets robust, shared experiment tools.
         bio: Michela is a Postdoctoral Researcher at Facebook AI Research (FAIR) in Menlo Park and an affiliate at Lawrence Berkeley National Lab. She joined Facebook in 2018, after earning a Ph.D. in physics from Yale University. During her graduate studies, she worked on the design, development, and deployment of deep learning algorithms for the ATLAS experiment at CERN, with a focus on computer vision and generative modeling for particle discovery and scientific simulation. Prior to that, she graduated from the University of California, Berkeley with B.A.'s in physics and astrophysics. Her current research focuses on empirically characterizing neural network properties and dynamics in the over-parametrized and under-parametrized regimes using pruning as a tool for model compression. Michela has a broad interest in the science of deep learning, towards developing a fundamental understanding of the inner workings of deep models through rigorous investigation and hypothesis testing, using tools and methodologies from the physical sciences. 
         website: https://mickypaganini.github.io/
         image: /assets/images/reprod_symp20/mpaganini.jpg
@@ -87,7 +87,7 @@ _Subject to change_
     <div>
     <p><b>{{speaker[1].title}}</b></p>
     <img class="align-left" width="125px" src="{{ site.url }}{{ site.baseurl }}{{ speaker[1].image }}">
-    <p><i>{{speaker[1].abstract}}</i></p>
+    <p><i>{{speaker[1].abstract | markdowify}}</i></p>
     <p><b>Bio:</b> {{speaker[1].bio}}</p>
     <p><a href="#schedule">Back to schedule</a></p>
     </div>
