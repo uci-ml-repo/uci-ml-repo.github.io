@@ -16,7 +16,7 @@ speakers:
         abstract: "We are interested in solving two infrastructural problems in data-centric fields such as machine learning: First, an inordinate amount of time is spent on preprocessing datasets, getting other people's code to run, writing evaluation/visualization scripts, with much of this effort duplicated across different research groups.  Second, a only static set of final results are ever published, leaving it up to the reader to guess how the various methods would fare in unreported scenarios.  I will present CodaLab, a new platform which aims to tackle these two problems by creating an online community around sharing and executing immutable components called bundles, thereby streamlining the research process."
         bio: "Percy Liang is an Associate Professor of Computer Science at Stanford University (B.S. from MIT, 2004; Ph.D. from UC Berkeley, 2011).  His two research goals are (i) to make machine learning more robust, fair, and interpretable; and (ii) to make computers easier to communicate with through natural language.  His awards include the Presidential Early Career Award for Scientists and Engineers (2019), IJCAI Computers and Thought Award (2016), an NSF CAREER Award (2016), a Sloan Research Fellowship (2015), and a Microsoft Research Faculty Fellowship (2014)."
         website: https://cs.stanford.edu/~pliang/
-        image: /assets/images/reprod_symp20/pliang.jpg
+        image: pliang.jpg
     kcranmer:
         name: Kyle Cranmer
         affiliation: New York University
@@ -24,7 +24,8 @@ speakers:
         abstract: "I will describe how two of my passions (machine learning and reproducible workflows) unexpectedly came together. In the context of particle physics, reproducibility is a serious challenge as the data analysis for a typical paper involves large teams working with heterogeneous software environments and loosely connected, informal workflows. However, reproducibility is not a particularly high priority for most physicists. Instead, we emphasized use cases that focused on reusing those workflows to answer new questions, and developed the REANA reproducible research data analysis platform to provide the needed functionality. Now we are developing APIs around these workflows and putting machine learning tools on top. For instance, we have active learning algorithms querying black box functions that are implemented by these workflows. Similarly, we use workflows to wrap complex simulation chains, which provide a causal, generative model with an intractable likelihood. Our recent work on likelihood-free inference (or simulation-based inference), which uses deep learning, leverages these workflows and raises new research questions when viewed holistically."
         bio: "Kyle Cranmer is a Professor of Physics and Data Science at New York University. He is an experimental particle physicists working, primarily, on the Large Hadron Collider, based in Geneva, Switzerland. Professor Cranmer obtained his Ph.D. in Physics from the University of Wisconsin-Madison in 2005 and his B.A. in Mathematics and Physics from Rice University. He was awarded the Presidential Early Career Award for Science and Engineering in 2007 and the National Science Foundation's Career Award in 2009. Professor Cranmer developed a framework that enables collaborative statistical modeling, which was used extensively for the discovery of the Higgs boson in July, 2012. His current interests are at the intersection of physics, statistics, and machine learning."
         website: http://theoryandpractice.org/
-        image: /assets/images/reprod_symp20/kcranmer.jpg
+        image: kcranmer.jpg
+        slides: kcranmer-slides.pdf
     mpaganini:
         name: Michela Paganini
         affiliation: Facebook Research
@@ -32,7 +33,8 @@ speakers:
         abstract: I will present the practice of neural network pruning as both a practical engineering intervention to reduce model size and a scientific tool to investigate the behavior and trainability of compressed models. By pruning away units or connections, it is possible to test hypotheses on the role of substructures and pathways towards feature formation and information propagation in neural networks. I will argue that a fundamental scientific understanding of the inner workings of neural networks is necessary to build a path towards robust, efficient AI, and I will introduce open-source work that has facilitated the investigation of the behavior of pruned models. I will highlight examples such as the contribution of centralized, reusable pruning methods in PyTorch and the open-sourcing of the `dagger` framework for reproducible and reusable experiment orchestration, to demonstrate how the desire for reproducibility in the context of pruning research (where complex multi-stage experiment pipelines are common) begets robust, shared experiment tools.
         bio: Michela is a Postdoctoral Researcher at Facebook AI Research (FAIR) in Menlo Park and an affiliate at Lawrence Berkeley National Lab. She joined Facebook in 2018, after earning a Ph.D. in physics from Yale University. During her graduate studies, she worked on the design, development, and deployment of deep learning algorithms for the ATLAS experiment at CERN, with a focus on computer vision and generative modeling for particle discovery and scientific simulation. Prior to that, she graduated from the University of California, Berkeley with B.A.'s in physics and astrophysics. Her current research focuses on empirically characterizing neural network properties and dynamics in the over-parametrized and under-parametrized regimes using pruning as a tool for model compression. Michela has a broad interest in the science of deep learning, towards developing a fundamental understanding of the inner workings of deep models through rigorous investigation and hypothesis testing, using tools and methodologies from the physical sciences. 
         website: https://mickypaganini.github.io/
-        image: /assets/images/reprod_symp20/mpaganini.jpg
+        image: mpaganini.jpg
+        slides: mpaganini-slides.pdf
     jvanschoren:
         name: Joaquin Vanschoren
         affiliation: Eindhoven University of Technology and OpenML
@@ -40,7 +42,8 @@ speakers:
         abstract: Sharing machine learning experiments in a reproducible way is a lot of work. However, what if we could automatically track every detail of our experiments and share them together with our results? OpenML is an open online platform where one cannot only share datasets, but also entire machine experiments. It has integrations into many machine learning libraries so that experiments run with these libraries are automatically shared in a fully reproducible way. This also means that the shared experiments can be used in many innovative ways. This talk will cover what is possible today, our experiences with making experiments reproducible, as well as open problems and future plans.
         bio: "Joaquin Vanschoren is Assistant Professor in Machine Learning at the Eindhoven University of Technology. His research focuses on machine learning, meta-learning, and understanding and automating learning. He founded and leads OpenML.org, an open science platform for reproducible machine learning. He received several demo and open data awards, has been tutorial speaker at NeurIPS and ECMLPKDD, and invited speaker at ECDA, StatComp, AutoML@ICML, CiML@NIPS, DEEM@SIGMOD, AutoML@PRICAI, MLOSS@NIPS, and many other occasions. He co-organizes the AutoML and meta-learning workshop series at NIPS and ICML and is co-editor of the book ’Automatic Machine Learning: Methods, Systems, Challenges’."
         website: https://joaquinvanschoren.github.io/
-        image: /assets/images/reprod_symp20/jvanschoren.jpg
+        image: jvanschoren.jpg
+        slides: jvanschoren-slides.pdf
 ---
 
 
@@ -49,12 +52,16 @@ The event will consist of 4 invited talks plus a panel discussion from thought-l
 
 This event will be streamed live, with ability to ask and upvote questions during the talks.
 
-Please fill-in the following short registration form for information purposes: [Registration Form](https://forms.gle/rBbvVKQr1rRPDGxe9)
+<!-- Please fill-in the following short registration form for information purposes: [Registration Form](https://forms.gle/rBbvVKQr1rRPDGxe9) -->
 
-<div class="notice notice--info">
+<!-- <div class="notice notice--info">
   <h4>Live Streaming</h4>
   <p>Click here for live stream of the event: <a href="{{ site.url }}{{ site.baseurl }}/events/reprod-symposium20/live">Live stream</a>.</p>
-</div>
+</div> -->
+
+# Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SuoxTFD-RBM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Dates
 
@@ -79,10 +86,11 @@ Please fill-in the following short registration form for information purposes: [
 <div>
 {% for speaker in page.speakers %}
     <h3 id="{{speaker[0]}}">{{speaker[1].name}}</h3>
-    {{speaker[1].affiliation}}, <a href="{{speaker[1].website}}" class="btn btn">Website</a>    
+    {{speaker[1].affiliation}} <a href="{{speaker[1].website}}" class="btn btn">Website</a>    
+    {%if speaker[1].slides%} <a href="{{ site.url }}{{ site.baseurl }}/assets/files/reprod_symp20/{{ speaker[1].slides }}" class="btn btn">Slides</a>{%endif%}
     <div>
     <p><b>{{speaker[1].title}}</b></p>
-    <img class="align-left" width="125px" src="{{ site.url }}{{ site.baseurl }}{{ speaker[1].image }}">
+    <img class="align-left" width="125px" src="{{ site.url }}{{ site.baseurl }}/assets/images/reprod_symp20/{{ speaker[1].image }}">
     <p><i>{{speaker[1].abstract | markdowify}}</i></p>
     <p><b>Bio:</b> {{speaker[1].bio}}</p>
     <p><a href="#schedule">Back to schedule</a></p>
