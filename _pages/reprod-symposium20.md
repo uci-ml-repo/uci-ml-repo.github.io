@@ -17,6 +17,7 @@ speakers:
         bio: "Percy Liang is an Associate Professor of Computer Science at Stanford University (B.S. from MIT, 2004; Ph.D. from UC Berkeley, 2011).  His two research goals are (i) to make machine learning more robust, fair, and interpretable; and (ii) to make computers easier to communicate with through natural language.  His awards include the Presidential Early Career Award for Scientists and Engineers (2019), IJCAI Computers and Thought Award (2016), an NSF CAREER Award (2016), a Sloan Research Fellowship (2015), and a Microsoft Research Faculty Fellowship (2014)."
         website: https://cs.stanford.edu/~pliang/
         image: pliang.jpg
+        slides: pliang-slides.pdf
     kcranmer:
         name: Kyle Cranmer
         affiliation: New York University
