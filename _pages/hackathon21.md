@@ -70,11 +70,11 @@ _Coming soon!_
 
 ## Organizers
 
-<img class="align-left" width="125px" src="{{ site.url }}{{ site.baseurl }}/assets/images/insiya-gunja.jpg">
+<img class="align-left" width="125px" src="{{ site.url }}{{ site.baseurl }}/assets/images/tamanna-hossain.jpg">
 
-**Insiya Gunja**
+**Tamanna Hossain**
 
-_Undergraduate, Computer Science_
+_Graduate Student, Computer Science_
 
 **Faculty Mentors**
 
@@ -84,7 +84,7 @@ _Undergraduate, Computer Science_
 
 ## Contact Us
 
-Organizer: igunja@uci.edu
+Organizer: tthossai@uci.edu
 
 Slack (for registered participants only): [uciml-hackathon.slack.com](http://uciml-hackathon.slack.com)
 
@@ -104,7 +104,7 @@ _Coming soon!_
   Every team member needs to register. We will be contacting you about teaming closer to the event.
 
 - *Will there be prizes?*<br>
-  Yes, most interesting submissions for each challenge dataset will receive prizes.
+  Yes, most interesting submissions will receive prizes.
 
 - *Will computational resources be provided for the hackathon?*<br>
   Yes, we will be providing access to a cluster computing environment for registered hackathon participants. More details coming soon.
