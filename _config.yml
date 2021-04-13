@@ -26,6 +26,8 @@ minimal_mistakes_skin: dark
 # logo: "/assets/images/uci-nlp-logo-large.png"
 breadcrumbs: true  # disabled by default
 # og_image: /assets/images/uci-nlp-logo-large.png
+repository: uci-ml-repo/uci-ml-repo.github.io
+
 
 # Build settings
 markdown: kramdown

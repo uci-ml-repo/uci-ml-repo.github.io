@@ -15,6 +15,8 @@ header:
 
 - **Hackathon: May 15 - May 24, 2021**
 
+<a href="https://forms.gle/VL3UYJyHWoUZg7MV6" rel="external"><button type="button" style='padding: 15px 32px; text-align: center; background-color:#00adb5; border:none; color: white; border-radius: 10px;'>Register!</button></a>
+
 Eligibility: University of California, Irvine students of all degrees, majors, backgrounds, and interests are more than welcome to register! That being said, we highly recommend having some solid experience in machine learning in order to succeed in this event.
 
 <!-- Check out the schedule of relevant events [here](/events/hackathon20/schedule). -->
@@ -104,7 +106,7 @@ _Coming soon!_
   Every team member needs to register. We will be contacting you about teaming closer to the event.
 
 - *Will there be prizes?*<br>
-  Yes, most interesting submissions will receive prizes.
+  Yes, most interesting submissions will receive monetary prizes.
 
 - *Will computational resources be provided for the hackathon?*<br>
   Yes, we will be providing access to a cluster computing environment for registered hackathon participants. More details coming soon.
