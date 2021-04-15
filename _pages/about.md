@@ -33,7 +33,13 @@ This project is sponsored by the National Science Foundation (NSF). See [here](h
 
 ## Students
 
-- Rachel Longjohn
 - Daniel Jiang
+- Markelle Kelly
+- Parmik Mehra
+- Ratul Ghosh
+- Rachel Longjohn
+- Tamanna Hossain
+
+#### Previous
 - Insiya Gunja
 - Zhengli Zhao <a href="https://zhengliz.github.io" class="btn">Website</a>

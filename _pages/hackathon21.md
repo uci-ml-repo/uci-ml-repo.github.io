@@ -14,6 +14,9 @@ header:
 ## Dates
 
 - **Hackathon: May 15 - May 24, 2021**
+- **Registration closes: May 7 2021**
+
+<a href="https://forms.gle/VL3UYJyHWoUZg7MV6" rel="external"><button type="button" style='padding: 15px 32px; text-align: center; background-color:#00adb5; border:none; color: white; border-radius: 10px;'>Register!</button></a>
 
 Eligibility: University of California, Irvine students of all degrees, majors, backgrounds, and interests are more than welcome to register! That being said, we highly recommend having some solid experience in machine learning in order to succeed in this event.
 
@@ -70,11 +73,11 @@ _Coming soon!_
 
 ## Organizers
 
-<img class="align-left" width="125px" src="{{ site.url }}{{ site.baseurl }}/assets/images/insiya-gunja.jpg">
+<img class="align-left" width="125px" src="{{ site.url }}{{ site.baseurl }}/assets/images/tamanna-hossain.jpg">
 
-**Insiya Gunja**
+**Tamanna Hossain**
 
-_Undergraduate, Computer Science_
+_Graduate Student, Computer Science_
 
 **Faculty Mentors**
 
@@ -84,7 +87,7 @@ _Undergraduate, Computer Science_
 
 ## Contact Us
 
-Organizer: igunja@uci.edu
+Organizer: tthossai@uci.edu
 
 Slack (for registered participants only): [uciml-hackathon.slack.com](http://uciml-hackathon.slack.com)
 
@@ -104,7 +107,7 @@ _Coming soon!_
   Every team member needs to register. We will be contacting you about teaming closer to the event.
 
 - *Will there be prizes?*<br>
-  Yes, most interesting submissions for each challenge dataset will receive prizes.
+  Yes, most interesting submissions will receive monetary prizes.
 
 - *Will computational resources be provided for the hackathon?*<br>
   Yes, we will be providing access to a cluster computing environment for registered hackathon participants. More details coming soon.
