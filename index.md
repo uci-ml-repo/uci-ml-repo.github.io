@@ -24,7 +24,7 @@ past_row:
     alt: "1st UCI ML Hackathon"
     title: "1st UCI ML Hackathon"
     excerpt: "Virtual hackathon for UCI students on challenge datasets from the scientific community."
-    url: "/events/hackathon21"
+    url: "/events/hackathon20"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
