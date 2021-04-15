@@ -13,8 +13,8 @@ header:
 
 ## Dates
 
-- **Hackathon: May 15 - May 24, 2021**
-- **Registration closes: May 7 2021**
+- **Hackathon: May 14 - May 23, 2021**
+- **Registration closes: May 7, 2021**
 
 <a href="https://forms.gle/VL3UYJyHWoUZg7MV6" rel="external"><button type="button" style='padding: 15px 32px; text-align: center; background-color:#00adb5; border:none; color: white; border-radius: 10px;'>Register!</button></a>
 
