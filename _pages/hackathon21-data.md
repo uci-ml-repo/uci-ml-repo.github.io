@@ -32,33 +32,31 @@ This dataset could be used (1) to help understand the climatic controls on ecosy
     description: "COVIDLies is a dataset of 62 common misconceptions about the COVID-19 along with 6,591 related tweets, identified and annotated by researchers from the UCI School of Medicine. Given a tweet, our data identifies whether any of the known misconceptions are expressed by the tweet, and if so, whether the tweet propagates the misconception (agree/pos), is informative by contradicting it (disagree/neg), or is neither misinformative nor informative (no stance/na).
 
 NOTE: More data may be added to the dataset before the start of the hackathon."
-    use_cases: "- Content moderation on social media platforms
-- Evaluation of stance detection systems
-- Analysis of linguistic patterns in informative/misinformative tweets"
+    use_cases: "Content moderation on social media platforms, evaluation of stance detection systems, analysis of linguistic patterns in informative/misinformative tweets."
   deid:
-    contact_name: "Alessandro Ghigi"  
-    contact_email: "aghigi@hs.uci.edu"  
+    contact_name: "Alessandro Ghigi, Zhaoxian Hu"  
+    contact_email: "aghigi@hs.uci.edu; huzhx@uci.edu"  
     short_name: "UCI DeID OMOP Clinical Data Warehouse"  
     long_name: "UCI DeID OMOP Clinical Data Warehouse"  
     description: "A fully anonymized copy of the UCI Health Clinical Data Warehouse that contains most structured EHR data for all UCI Health patients. The dataset is refreshed monthly. No IRB is required for research use. Available clinical information: encounters, conditions (diagnoses), procedures, measurements (lab tests and vital signs), drugs, observations."
     use_cases: "Feasibility studies, clinical projects that can run against DeID data."
   cords:
-    contact_name: "Alessandro Ghigi"  
-    contact_email: "aghigi@hs.uci.edu"  
+    contact_name: "Alessandro Ghigi, Zhaoxian Hu"  
+    contact_email: "aghigi@hs.uci.edu; huzhx@uci.edu"  
     short_name: "UC COvid Research Data Set (UC CORDS)"  
     long_name: "UC COvid Research Data Set (UC CORDS)"  
     description: "UC CORDS is a HIPAA Limited Data Set comprised of EHR data across the five UC medical campuses associated with individuals tested for COVID. The dataset is refreshed weekly. No IRB is required for research use. Available clinical information: encounters, conditions (diagnoses), procedures, measurements (lab tests and vital signs), drugs, observations."
     use_cases: "Feasibility studies, clinical projects about COVID."
   ncats:
-    contact_name: "Alessandro Ghigi"  
-    contact_email: "aghigi@hs.uci.edu"  
+    contact_name: "Alessandro Ghigi, Zhaoxian Hu"  
+    contact_email: "aghigi@hs.uci.edu; huzhx@uci.edu"  
     short_name: "NCATS National Covid Cohort Collaborative (N3C) Data"  
     long_name: "NCATS National Covid Cohort Collaborative (N3C) Data"  
     description: "A centralized national data resource that the research community can use to study COVID-19. It is by far “the largest collection of EHR data on COVID-19 patients in the world."
     use_cases: "Feasibility studies, clinical projects about COVID-19."
   nih:
-    contact_name: "Alessandro Ghigi"  
-    contact_email: "aghigi@hs.uci.edu"  
+    contact_name: "Alessandro Ghigi, Zhaoxian Hu"  
+    contact_email: "aghigi@hs.uci.edu; huzhx@uci.edu"  
     short_name: "NIH All of Us Research Data"  
     long_name: "NIH All of Us Research Data"  
     description: "One of the largest biomedical data resources from a diverse cohort of one million or more participants nationwide. Current data available include health and lifestyle surveys, physical measurements, and electronic health records."
