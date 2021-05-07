@@ -61,6 +61,13 @@ NOTE: More data may be added to the dataset before the start of the hackathon."
     long_name: "NIH All of Us Research Data"  
     description: "One of the largest biomedical data resources from a diverse cohort of one million or more participants nationwide. Current data available include health and lifestyle surveys, physical measurements, and electronic health records."
     use_cases: "Feasibility studies, clinical projects."
+  edge:
+    contact_name: "Wayne Hayes"  
+    contact_email: "whayes@uci.edu"  
+    short_name: "Edge Prediction"  
+    long_name: "Prediction of missing edges in network data"  
+    description: "This network represents a recent, high-quality, experimentally-determined biological network of the interactions between proteins in a human cell. Each node is one type of protein, with an edge between two proteins if they are known to interact. Detecting such interactions in the lab is very expensive and error-prone (at least $100 per edge detection with current technology), but the network has many potential clinical applications. Thus, reliable computational prediction of new edges can potentially save money and eventually, lives. This dataset contains graphlet-based topological information that allows the prediction of new edges based on current edges. There are over 150,000 features for each and every pair of nodes (there are 9,000 nodes, giving about 40.5 million pairs), but not every feature exists for every pair. Thus, the dataset is sparsely represented. There are 10 folds, with pre-computed features for each. Users should NOT attempt their own folds, since the features must be computed independently for each fold--the same pair of nodes may have different features sets and values in different folds. Each fold consists of a training set and test set, and the training set actually *includes* the node pairs in the test set, but with a false value for the edge. So technically this problem involves detecting false-negative edges in the training set, with the test set of known actual edges being the comparison."
+    use_cases: "For now edge prediction is relatively novel field, but since networks are used to represent a wide variety of data the technique has wide potential application."
     
 ---
 
