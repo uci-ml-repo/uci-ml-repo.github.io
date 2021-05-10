@@ -67,6 +67,7 @@ This hackathon will last a little over a week. In that time, students will work 
 - [NCATS National Covid Cohort Collaborative (N3C) Data](/events/hackathon21/datasets#ncats)
 - [NIH All of Us Research Data](/events/hackathon21/datasets#nih)
 - [Edge Prediction](/events/hackathon21/datasets#edge)
+- [Snapshot Serengeti](/events/hackathon21/datasets#snapshot)
 
 <!-- Please note that datasets will be made available to registered participants closer to the day of the event. For information about the datasets, follow the links below.
 
