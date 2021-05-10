@@ -14,11 +14,13 @@ header:
 ## Dates
 
 - **Hackathon: May 14 - May 23, 2021**
-- **Registration closes: May 7, 2021**
+- ~~Registration closes: May 7, 2021~~
+<!--
+<a href="https://forms.gle/VL3UYJyHWoUZg7MV6" rel="external"><button type="button" style='padding: 15px 32px; text-align: center; background-color:#00adb5; border:none; color: white; border-radius: 10px;'>Register!</button></a> -->
 
-<a href="https://forms.gle/VL3UYJyHWoUZg7MV6" rel="external"><button type="button" style='padding: 15px 32px; text-align: center; background-color:#00adb5; border:none; color: white; border-radius: 10px;'>Register!</button></a>
+Check out the schedule of relevant events [here](/events/hackathon21/schedule).
 
-Eligibility: University of California, Irvine students of all degrees, majors, backgrounds, and interests are more than welcome to register! That being said, we highly recommend having some solid experience in machine learning in order to succeed in this event.
+<!-- Eligibility: University of California, Irvine students of all degrees, majors, backgrounds, and interests are more than welcome to register! That being said, we highly recommend having some solid experience in machine learning in order to succeed in this event. -->
 
 <!-- Check out the schedule of relevant events [here](/events/hackathon20/schedule). -->
 
