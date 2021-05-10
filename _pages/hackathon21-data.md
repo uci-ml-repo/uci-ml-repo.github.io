@@ -68,7 +68,15 @@ NOTE: More data may be added to the dataset before the start of the hackathon."
     long_name: "Prediction of missing edges in network data"  
     description: "This network represents a recent, high-quality, experimentally-determined biological network of the interactions between proteins in a human cell. Each node is one type of protein, with an edge between two proteins if they are known to interact. Detecting such interactions in the lab is very expensive and error-prone (at least $100 per edge detection with current technology), but the network has many potential clinical applications. Thus, reliable computational prediction of new edges can potentially save money and eventually, lives. This dataset contains graphlet-based topological information that allows the prediction of new edges based on current edges. There are over 150,000 features for each and every pair of nodes (there are 9,000 nodes, giving about 40.5 million pairs), but not every feature exists for every pair. Thus, the dataset is sparsely represented. There are 10 folds, with pre-computed features for each. Users should NOT attempt their own folds, since the features must be computed independently for each fold--the same pair of nodes may have different features sets and values in different folds. Each fold consists of a training set and test set, and the training set actually *includes* the node pairs in the test set, but with a false value for the edge. So technically this problem involves detecting false-negative edges in the training set, with the test set of known actual edges being the comparison."
     use_cases: "For now edge prediction is relatively novel field, but since networks are used to represent a wide variety of data the technique has wide potential application."
-  
+  snapshot:
+    contact_name: "Markelle Kelly, Gavin Kerrigan"  
+    contact_email: "markellekelly@gmail.com; gavin.k@uci.edu"  
+    short_name: "Snapshot Serengeti"  
+    long_name: "Snapshot Serengeti"  
+    description: "This data set contains approximately 2.65M sequences of camera trap images, totaling 7.1M images, from seasons one through eleven of the Snapshot Serengeti project. Labels are provided for 61 categories, primarily at the species level (for example, the most common labels are wildebeest, zebra, and Thomson’s gazelle). Approximately 76% of images are labeled as empty. There are also approximately 150,000 bounding box annotations for approximately 78,000 of these images.
+    
+    Note that this is a very large data set containing both (i) images (very large, a few hundred gigabytes per season), (ii) metadata from human labelers (smaller). You may want to limit your experiments to a subset of all of the image data (e.g., a single season) rather than using all of the data."
+    use_cases: "Automated detecting and counting of animals in the wild (ecology, climate science), and research on comparing human and machine image classifiers."
 ---
 
 <div id="top"></div>
