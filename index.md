@@ -5,14 +5,21 @@
 layout: splash
 upcoming_row:
   - image_path: /assets/images/data-wallpaper-square.jpg
+    alt: "3rd UCI ML Hackathon"
+    title: "3rd UCI ML Hackathon"
+    excerpt: "Virtual hackathon for UCI students on challenge datasets from the scientific community."
+    url: "/events/hackathon22"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - excerpt: "more coming soon.."
+past_row:
+  - image_path: /assets/images/data-wallpaper-square.jpg
     alt: "2nd UCI ML Hackathon"
     title: "2nd UCI ML Hackathon"
     excerpt: "Virtual hackathon for UCI students on challenge datasets from the scientific community."
     url: "/events/hackathon21"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - excerpt: "more coming soon.."
-past_row:
   - image_path: assets/images/clones-unsplash-square.jpg
     alt: "Symposium on Reproducibility in ML"
     title: "Symposium on Reproducibility in ML"
