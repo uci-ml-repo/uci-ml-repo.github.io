@@ -46,7 +46,7 @@ If you have any questions about the computing resources, post in the `#computing
 
 Today, artificial intelligence and machine learning are being widely used for all sorts of useful and critical discoveries and pattern recognition. Tracking economies, predicting natural disasters, and training robots are just some of the incredible and fascinating things that are being done with machine learning this very minute. In an age of extreme technological development, it only makes sense that our students grow their understanding with it.
 
-This virtual hackathon aims to encourage direct student involvement with real world machine learning applications through the UCI ML Repository. This repository contains hundreds of datasets used in machine learning research and teaching worldwide. The goal of every participating member/team is to use or develop machine learning approaches to build features for the repository. Features available for participants to work on will include visualization of datasets, automatic statistical analysis of datasets and ML methods, evaluation pipeline, dataset recommendation system, etc. We hope that the final submission that students draft will provide a useful addition to the services the UCI ML Repository provides to the machine learning community. The most interesting submissions, as judged by repository research team, will receive monetary awards.
+This virtual hackathon aims to encourage direct student involvement with real world machine learning applications through the UCI ML Repository. The repository is used by millions worldwide and contains hundreds of datasets used in machine learning research and teaching. The goal of every participating member/team is to use or develop machine learning approaches to build features for the repository. Features available for participants to work on will include visualization of datasets, automatic statistical analysis of datasets and ML methods, evaluation pipeline, dataset recommendation system, etc. We hope that the final submission that students draft will provide a useful addition to the services the UCI ML Repository provides to the machine learning community. The most interesting submissions, as judged by repository research team, will receive monetary awards.
 
 Successful teams may be encouraged to continue developing their project after the event jointly with UCI’s machine learning repository research team. Discoveries made from the Machine Learning Hackathon can be applied to other relevant datasets, or can spark a call for action on implementing a solution to an existing problem. All participants will create open source work, allowing other teams or researchers to further their initial progress.
 
@@ -93,7 +93,7 @@ For each dataset in the UCI ML Repository, recommend other datasets in the repos
 
 ### NLP for Dataset Parsing
 
-Use NLP methods to extract information from papers citing datasets in the UCI Repository. Relevant information to identity from papers could be the variable used as the target, main results, funding sources etc.
+Use NLP methods to extract information from papers introducing or using datasets from the UCI Repository. Relevant information to identity from papers could be the variable used as the target, main results, funding sources etc.
 
 ## Organizers
 
