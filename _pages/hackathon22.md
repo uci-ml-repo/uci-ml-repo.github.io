@@ -46,7 +46,7 @@ If you have any questions about the computing resources, post in the `#computing
 
 Today, artificial intelligence and machine learning are being widely used for all sorts of useful and critical discoveries and pattern recognition. Tracking economies, predicting natural disasters, and training robots are just some of the incredible and fascinating things that are being done with machine learning this very minute. In an age of extreme technological development, it only makes sense that our students grow their understanding with it.
 
-This virtual hackathon aims to encourage direct student involvement with real world machine learning applications through the UCI ML Repository. The repository is used by millions worldwide and contains hundreds of datasets used in machine learning research and teaching. The goal of every participating member/team is to use or develop machine learning approaches to build features for the repository. Features available for participants to work on will include visualization of datasets, automatic statistical analysis of datasets and ML methods, evaluation pipeline, dataset recommendation system, etc. We hope that the final submission that students draft will provide a useful addition to the services the UCI ML Repository provides to the machine learning community. The most interesting submissions, as judged by repository research team, will receive monetary awards.
+This virtual hackathon aims to encourage direct student involvement with real world machine learning applications through the UCI ML Repository. The repository is used by millions worldwide and contains hundreds of datasets used in machine learning research and teaching. The goal of every participating member/team is to use or develop machine learning approaches to build features for the repository. Features available for participants to work on will include visualization of datasets, automatic statistical analysis of datasets and ML methods, evaluation pipeline, dataset recommendation system, natural language processing etc. We hope that the final submission that students draft will provide a useful addition to the services the UCI ML Repository provides to the machine learning community. The most interesting submissions, as judged by repository research team, will receive monetary awards.
 
 Successful teams may be encouraged to continue developing their project after the event jointly with UCI’s machine learning repository research team. Discoveries made from the Machine Learning Hackathon can be applied to other relevant datasets, or can spark a call for action on implementing a solution to an existing problem. All participants will create open source work, allowing other teams or researchers to further their initial progress.
 
@@ -64,7 +64,7 @@ Whether it be a simple, fascinating discovery or significant breakthrough, we ar
 
 This hackathon will last for twelve days. In that time, students will work individually, or in teams up to four people in size, to use or develop machine learning approaches to build features for the UCI ML Repository, which contains hundreds of datasets used in machine learning research. 
 
- Correspondence and announcements throughout the duration of the event will happen primarily through [Slack](http://uciml-hackathon.slack.com). We will provide additional contact information there, if necessary. We will be arranging check-ins, meetings with UCI ML Repository team members, and office hours, should anyone need guidance or assistance. There will be prizes offered to those groups that submit particularly useful or creative deliverables. We encourage students with any academic background or interest to participate!
+ Correspondence and announcements throughout the duration of the event will happen primarily through [Slack](http://uciml-hackathon.slack.com). We will provide additional contact information there, if necessary. We will be arranging check-ins, meetings with UCI ML Repository team members, and office hours, should anyone need guidance or assistance. There will be prizes offered to those groups that submit particularly useful or creative deliverables. If their submissions get incorporated into the repository website, award winners will also be credited as contributors to the UCI ML Repository . We encourage students with any academic background or interest to participate!
 
 <!--
 Submission and Evaluation Criteria: [Click here](/events/hackathon21/submission).
@@ -136,7 +136,7 @@ If you have any questions about the computing resources, post in the `#computing
   Every team member needs to register. We will be contacting you about teaming closer to the event.
 
 - *Will there be prizes?*<br>
-  Yes, most interesting submissions will receive monetary prizes.
+  Yes, most interesting submissions will receive monetary prizes. They will also be credited as contributors to the UCI ML Repository if their submissions get incorporated into the repository website.
 
 - *Will computational resources be provided for the hackathon?*<br>
   Yes, we will be providing access to a cluster computing environment for registered hackathon participants. Instructions on how to access resources will be released at the start of the hackathon.
