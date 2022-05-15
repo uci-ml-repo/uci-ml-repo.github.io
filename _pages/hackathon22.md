@@ -20,6 +20,8 @@ header:
 
 <!--Check out the schedule of relevant events [here](/events/hackathon21/schedule).-->
 
+**<u>Opening Ceremony</u>: 3-5pm on Wed, May 18 @ DBH 6011 + 6th Floor Patio**
+
 Eligibility: University of California, Irvine students of all degrees, majors, backgrounds, and interests are more than welcome to register! That being said, we highly recommend having some solid experience in machine learning in order to succeed in this event. 
 
 
